@@ -2,7 +2,7 @@
 output application/json
 var values = payload pluck((value, key) -> value)
 ---
-root:{
+root: {
     "abs_values": {
         num1: abs(payload.num1),
         num2: abs(payload.num2),
