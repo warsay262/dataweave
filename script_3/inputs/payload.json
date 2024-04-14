@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Product1":{
         "productId": "ABC123",
         "productName": "PC",
         "cost": 19.99,
@@ -8,7 +8,7 @@
         "category": "Electronics",
         "weight": "1.5 lbs"
     },
-    {
+    "Product2":{
         "productId": "XYZ789",
         "productName": "Casual Jeans",
         "cost": 24.99,
@@ -17,7 +17,7 @@
         "category": "Apparel",
         "weight": "1.2 lbs"
     },
-    {
+    "Product3":{
         "productId": "LMN456",
         "productName": "Mystery Novel",
         "cost": 12.99,
@@ -26,7 +26,7 @@
         "category": "Books",
         "weight": "0.9 lbs"
     },
-    {
+    "Product4":{
         "productId": "PQR123",
         "productName": "Facial Cleanser",
         "cost": 24.99,
@@ -35,7 +35,7 @@
         "category": "Beauty",
         "weight": "0.5 lbs"
     },
-    {
+    "Product5":{
         "productId": "STU456",
         "productName": "Building Blocks Set",
         "cost": 19.99,
@@ -44,4 +44,4 @@
         "category": "Toys",
         "weight": "1.0 lbs"
     }
-]
+}
