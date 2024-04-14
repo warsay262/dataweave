@@ -1,0 +1,47 @@
+[
+    {
+        "productId": "ABC123",
+        "productName": "PC",
+        "cost": 19.99,
+        "manufacturer": "Perfect Computer",
+        "quantity": 100,
+        "category": "Electronics",
+        "weight": "1.5 lbs"
+    },
+    {
+        "productId": "XYZ789",
+        "productName": "Casual Jeans",
+        "cost": 24.99,
+        "manufacturer": "DenimCo",
+        "quantity": 80,
+        "category": "Apparel",
+        "weight": "1.2 lbs"
+    },
+    {
+        "productId": "LMN456",
+        "productName": "Mystery Novel",
+        "cost": 12.99,
+        "manufacturer": "MysteryBooks Inc.",
+        "quantity": 40,
+        "category": "Books",
+        "weight": "0.9 lbs"
+    },
+    {
+        "productId": "PQR123",
+        "productName": "Facial Cleanser",
+        "cost": 24.99,
+        "manufacturer": "Face Beauty",
+        "quantity": 60,
+        "category": "Beauty",
+        "weight": "0.5 lbs"
+    },
+    {
+        "productId": "STU456",
+        "productName": "Building Blocks Set",
+        "cost": 19.99,
+        "manufacturer": "ToyCo",
+        "quantity": 100,
+        "category": "Toys",
+        "weight": "1.0 lbs"
+    }
+]
